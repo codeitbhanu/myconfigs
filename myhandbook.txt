@@ -1,0 +1,8 @@
+2017-04-02 07:07:59
+-------------------
+Ubuntu : Installed XDM Downlad manager
+Link : https://sourceforge.net/projects/xdman/files/xdman.deb/download
+-------------------
+MS Visual Code : Installed Instert Date Module
+Link : https://marketplace.visualstudio.com/items?itemName=jsynowiec.vscode-insertdatestring
+-------------------
